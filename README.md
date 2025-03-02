@@ -1,5 +1,9 @@
 # ReportsText
 
+##Documentação
+
+[Documentação do Software - ReportsText.pdf](https://github.com/user-attachments/files/19043219/Documentacao.do.Software.-.ReportsText.pdf)
+
 ## 📌 Descrição
 ReportsText é uma aplicação em Java para geração automatizada de relatórios no formato `.txt`. O objetivo é facilitar a criação de relatórios padronizados, adicionando automaticamente data, hora e o nome do autor.
 
