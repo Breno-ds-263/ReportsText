@@ -1,0 +1,14 @@
+# Pastas e arquivos do Eclipse
+/.classpath
+/.project
+/.settings/
+
+# Arquivos compilados
+/bin/
+/target/
+*.class
+
+# Logs e arquivos temporários
+*.log
+*.tmp
+
